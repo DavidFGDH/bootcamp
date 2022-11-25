@@ -1,0 +1,31 @@
+.title{
+    margin: 10px 0 10px 0;
+    color: gray;
+    background-color: rgba(242,242,242,0.39);
+    border: 1px solid #eceaea;
+    font-size: 30px;
+    font-weight: bold;
+    width: 40%;
+}
+
+.bodyPaper {
+    background-color: rgba(250,250,250,0.39);
+}
+
+.containerPaper{
+    background-color: rgba(255,255,255,0.39);
+}
+
+.subtitle{
+    color: #777
+}
+.itemsText {
+    text-align: justify;
+}
+
+
+.imagesSize{
+    width: 40%;
+    height: 40%;
+    margin: 10px 10px 10px 10px;
+}
